@@ -1,0 +1,10 @@
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\bin\Debug\University Chooser.exe.config
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\bin\Debug\University Chooser.exe
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\bin\Debug\University Chooser.pdb
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University Chooser.csprojResolveAssemblyReference.cache
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University Chooser.exe
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University Chooser.pdb
+c:\users\store\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University Chooser.csproj.GenerateResource.Cache
+C:\Users\STORE\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University_Chooser.UniversitySearch.resources
+C:\Users\STORE\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University_Chooser.CourseFinder.resources
+C:\Users\STORE\documents\visual studio 2013\Projects\University Chooser\University Chooser\obj\Debug\University_Chooser.Accomodation.resources
